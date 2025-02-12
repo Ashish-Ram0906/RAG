@@ -14,7 +14,7 @@ This Streamlit-powered **Multi-Source Querying App** allows users to upload docu
 
 ## 📌 Installation
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Access the Repository
 ```sh
 git clone https://github.com/Ashish-Ram0906/RAG.git
 cd your-repo
